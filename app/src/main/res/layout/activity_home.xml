@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
 
+    <!-- TODO! Hey I am here down in XML -->
     <ListView
         android:id="@+id/listView"
         android:layout_width="0dp"
