@@ -16,3 +16,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+var x = 5 + 5;
+
+printf(x);
+
+function calculacion(){
+    return 5 + 5;
+    }
+
+printf(calculation())
